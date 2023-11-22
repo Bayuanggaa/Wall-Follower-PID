@@ -4,5 +4,5 @@ Ini merupakan project Mata Kuliah Praktik Sistem Kendali yang saya kerjakan pada
 ![alt text](https://github.com/Bayuanggaa/Wall-Follower-PID/blob/main/Pict/Front.jpg?raw=true)
 *Figure 1. Bagian Atas Robot.*
 
-<img src="https://raw.githubusercontent.com/ferenc-nemeth/maze-generation-algorithms/master/design/sample.png" > <br>
+![alt text](https://github.com/Bayuanggaa/Wall-Follower-PID/blob/main/Pict/Up.jpg?raw=true)
 *Figure 1. Bagian Bawah*

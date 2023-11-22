@@ -1,7 +1,7 @@
 # Wall-Follower-PID
 Ini merupakan project Mata Kuliah Praktik Sistem Kendali yang saya kerjakan pada semester 3 jurusan Teknik Elektronika di Universitas Negeri Yogyakarta.   
 
-<img src="[https://raw.githubusercontent.com/ferenc-nemeth/maze-generation-algorithms/master/design/sample.png](https://github.com/Bayuanggaa/Wall-Follower-PID/blob/main/Pict/Wall%20Follower%20Front.jpg)" > <br>
+<img src="[https://github.com/Bayuanggaa/Wall-Follower-PID/blob/main/Pict/Front.jpg)" > <br>
 *Figure 1. Bagian Atas Robot.*
 
 <img src="https://raw.githubusercontent.com/ferenc-nemeth/maze-generation-algorithms/master/design/sample.png" > <br>
